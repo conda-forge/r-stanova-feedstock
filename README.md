@@ -1,11 +1,11 @@
-About r-stanova
-===============
+About r-stanova-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-stanova-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/bayesstuff/stanova
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-stanova-feedstock/blob/main/LICENSE.txt)
 
 Summary: More relevant and interpretable summary for Bayesian models.
 
